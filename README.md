@@ -26,3 +26,6 @@ Group the data by Seniority and calculate the total tax.
 Save Results
 
 Save the modified DataFrame to a CSV file named employee_data.csv.
+
+=================================================================
+The emp_data.csv is output sample for the python program 
